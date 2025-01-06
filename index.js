@@ -1,4 +1,3 @@
-// Author : Jaydatt Patel
 
 import express from "express";
 import EJSLayouts from "express-ejs-layouts";
